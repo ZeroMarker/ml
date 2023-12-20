@@ -8,3 +8,20 @@
 
 [撑起计算机视觉半边天的ResNet【论文精读】](https://www.bilibili.com/video/BV1Fb4y1h73E/)
 
+[一文带你玩转深度学习](https://aistudio.baidu.com/projectdetail/6210363)
+
+[魔搭](https://modelscope.cn/home)
+
+[HuggingFace](https://huggingface.co/)
+
+[Kaggle](https://www.kaggle.com/)
+
+[SageMaker](https://studio-d-mllbgun8gppx.studio.ap-southeast-2.sagemaker.aws/home?tab=Overview)
+
+[飞桨AI Studio](https://aistudio.baidu.com/index)
+
+[CoCalc](https://cocalc.com/)
+
+[CoLab](https://colab.google/)
+
+
